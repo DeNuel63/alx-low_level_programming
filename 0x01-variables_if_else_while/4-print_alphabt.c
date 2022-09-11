@@ -9,6 +9,7 @@
 int main(void)
 {
 	int alphabt;
+
 	alphabt = 'a';
 	while (alphabt <= 'z')
 	{
